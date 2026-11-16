@@ -1,13 +1,5 @@
 # Emma – AI-Powered Desktop Personal Assistant
-
-\<p align="center">
-&#x20; \<b>Your Intelligent Desktop Companion\</b>
-&#x20; \<br/>
-&#x20; An AI-powered personal assistant designed to simplify everyday computer interactions through voice commands, intelligent automation, and system monitoring.
-\</p>
-
 ---
-
 ## Overview
 
 **Emma** is an AI-powered desktop personal assistant that combines artificial intelligence, voice interaction, desktop automation, and cybersecurity monitoring into one unified application.
