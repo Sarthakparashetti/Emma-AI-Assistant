@@ -247,7 +247,3 @@ Create a `.env` file inside the backend directory and configure the variables li
 Computer Engineering Student | AI & Software Development Enthusiast
 
 - GitHub: [@Sarthakparashetti](https://github.com/Sarthakparashetti)
-
----
-
-\<p align="center">   \<b>Emma – Making Desktop Interaction Smarter.\</b> \</p>
